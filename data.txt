@@ -1,0 +1,7 @@
+This is a screening assignment
+
+
+
+## The word placement is replaced with screening and copid to this file.
+
+# Hence the output "This is a screening assignment"
